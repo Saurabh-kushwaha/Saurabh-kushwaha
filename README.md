@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Saurabh Kushwaha.
 
 
-(https://user-images.githubusercontent.com/87033076/152482576-ebad0865-9e9e-4402-9168-8a6c17597a9b.png)
+                                             ![Dev_1](https://user-images.githubusercontent.com/87033076/152482866-a7e823ba-8009-4a34-bfc8-0458e7cdd51c.png)
+
 
 About Me:
 - 🔭 I’m currently working on OSO
