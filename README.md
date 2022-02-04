@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Saurabh Kushwaha.
 
 
-                                             ![Dev_1](https://user-images.githubusercontent.com/87033076/152482866-a7e823ba-8009-4a34-bfc8-0458e7cdd51c.png)
+                                            
 
 
 About Me:
