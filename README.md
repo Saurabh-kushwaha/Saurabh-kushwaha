@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kushwaha</h1>
 <h3 align="center">A passionate full Stack Web Developer from India.</h3>
 
- <img
-              src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"
-              alt="Saurabh Kushwaha"
-            />
+ <span align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="Saurabh Kushwaha"/></span>
             
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-kushwaha" /> </p>
 
