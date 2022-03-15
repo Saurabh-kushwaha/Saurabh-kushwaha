@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kushwahasaurabh219@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RavTEWw9vdQpB9Vi4R12x-TmYasNnhI9/view?usp=sharing](https://drive.google.com/file/d/1RavTEWw9vdQpB9Vi4R12x-TmYasNnhI9/view?usp=sharing)
 
 - ⚡ Fun fact **badminton, running**
 
