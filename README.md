@@ -2,12 +2,11 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kushwaha</h1>
 <h3 align="center">A passionate full Stack Web Developer from India.</h3>
 
-<img
-  
-   src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"
-   alt="gif"
- />
-
+ <img
+              src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"
+              alt="Saurabh Kushwaha"
+            />
+            
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-kushwaha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-kushwaha" alt="saurabh-kushwaha" /></a> </p>
