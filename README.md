@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full Stack Web Developer from India.</h3>
 
 <img
-   align-items: "center";
+   align-items: "center"
    src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"
    alt="gif"
  />
