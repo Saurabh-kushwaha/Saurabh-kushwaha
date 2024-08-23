@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kushwaha</h1>
-<h3 align="center">A passionate full Stack Web Developer from India.</h3>
+<h3 align="center">A passionate Frontend Developer from India.</h3>
 <h4 align="center">Dedicated developer with a keen interest
 in learning new technology and building
 user-friendly applications. Eager to tackle
@@ -10,9 +10,9 @@ a lasting impact on user experience.
             
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-kushwaha" alt="saurabh-kushwaha" /></a> </p>
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Backend development** and Exploring new Technology in **Frontend Developer**
 
-- 👯 I’m looking to collaborate on **MERN Stack**
+- 👯 I’m looking to collaborate on **Frontend Development**
 
 - 👨‍💻 All of my projects are available at [https://saurabh-kushwaha.github.io/portfolio/](https://saurabh-kushwaha.github.io/portfolio/)
 
