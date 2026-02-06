@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saurabh Kushwaha 👋</h1>
 <h3 align="center">Frontend Developer with 3+ years experience building scalable web applications.</h3>
 
-- 🌱 I’m currently working in Nvest Solution and learning **Backend development** and Exploring new Technology in **Frontend Development**
+- 🌱 I’m currently working in **Nvest Solution**
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
