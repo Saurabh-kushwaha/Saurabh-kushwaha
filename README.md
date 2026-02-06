@@ -1,28 +1,40 @@
 <h1 align="center">Hi, I'm Saurabh Kushwaha 👋</h1>
-<h3 align="center">Frontend Developer with 3+ years experience building scalable web applications.</h3>
+<h3 align="center">Frontend Developer with 3+ years of experience building scalable web applications.</h3>
 
-- 🌱 I’m currently working in **Nvest Solution**
+---
 
-- 👯 I’m looking to collaborate on **Frontend Development**
+### 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://saurabh-kushwaha.github.io/portfolio/](https://saurabh-kushwaha.github.io/portfolio/)
+- 🌱 Currently working at **Nvest Solution**
+- 👯 Open to collaborating on **Frontend Development projects**
+- 👨‍💻 All of my projects are available at  
+  https://saurabh-kushwaha.github.io/portfolio/
+- 📫 Reach me at **kushwahasaurabh219@gmail.com**
+- 📄 Learn more about my experience:  
+  https://drive.google.com/file/d/1RavTEWw9vdQpB9Vi4R12x-TmYasNnhI9/view?usp=sharing
+- ⚡ Fun fact: I enjoy **badminton and running**
 
-- 📫 How to reach me **kushwahasaurabh219@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RavTEWw9vdQpB9Vi4R12x-TmYasNnhI9/view?usp=sharing](https://drive.google.com/file/d/1RavTEWw9vdQpB9Vi4R12x-TmYasNnhI9/view?usp=sharing)
+### 🤝 Connect with me
 
-- ⚡ Fun fact **badminton, running**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@saurabh16454018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saurabh16454018" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saurbhkushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurbhkushwaha/" height="30" width="40" /></a>
-<a href="https://medium.com/@kushwahasaurabh219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kushwahasaurabh219" height="30" width="40" /></a>
+<a href="https://twitter.com/saurabh16454018" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/saurbhkushwaha/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+
+<a href="https://medium.com/@kushwahasaurabh219" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages & Tools</h3>
+---
+
+<h3 align="center">🛠 Languages & Tools</h3>
 
 <p align="center">
+
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
 
@@ -61,4 +73,5 @@
 
 <a href="https://postman.com" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+
 </p>
