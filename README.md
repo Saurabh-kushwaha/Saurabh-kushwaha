@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Saurabh Kushwaha 👋</h1>
-<h3 align="center">A passionate Frontend Developer from India.</h3>
-<h4 align="center">Dedicated developer with a keen interest
-in learning new technology and building
-user-friendly applications. Eager to tackle
-web development challenges to achieve
-a lasting impact on user experience.
-</h4>
+<h3 align="center">Frontend Developer with 3+ years experience building scalable web applications.</h3>
+
  <p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt=""/></p>
             
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-kushwaha" alt="saurabh-kushwaha" /></a> </p>
