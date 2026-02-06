@@ -1,29 +1,17 @@
 <h1 align="center">Hi, I'm Saurabh Kushwaha 👋</h1>
 <h3 align="center">Frontend Developer with 3+ years experience building scalable web applications.</h3>
 
- <p align="center"><img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt=""/></p>
-            
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-kushwaha" alt="saurabh-kushwaha" /></a> </p>
-
-- 🌱 I’m currently learning **Backend development** and Exploring new Technology in **Frontend Developer**
+- 🌱 I’m currently working in Nvest Solution and learning **Backend development** and Exploring new Technology in **Frontend Developer**
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
 - 👨‍💻 All of my projects are available at [https://saurabh-kushwaha.github.io/portfolio/](https://saurabh-kushwaha.github.io/portfolio/)
-
-- 📝 I regularly write articles on [https://medium.com/@kushwahasaurabh219](https://medium.com/@kushwahasaurabh219)
-
-- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **kushwahasaurabh219@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RavTEWw9vdQpB9Vi4R12x-TmYasNnhI9/view?usp=sharing](https://drive.google.com/file/d/1RavTEWw9vdQpB9Vi4R12x-TmYasNnhI9/view?usp=sharing)
 
 - ⚡ Fun fact **badminton, running**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
