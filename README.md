@@ -13,19 +13,19 @@
 
 ---
 
-### 🤝 Connect with me
+<h3 align="center">🤝 Connect with me</h3>
 
-<div align="center">
-  <a href="https://twitter.com/saurabh16454018" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<p align="center">
+  <a href="https://twitter.com/saurabh16454018">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/saurbhkushwaha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/saurbhkushwaha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@kushwahasaurabh219" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+  <a href="https://medium.com/@kushwahasaurabh219">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-</div>
+</p>
 
 <div align="center">
 
