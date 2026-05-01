@@ -15,7 +15,7 @@
 
 ### 🤝 Connect with me
 
-<p align="center">
+<div align="center">
   <a href="https://twitter.com/saurabh16454018" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
@@ -25,7 +25,7 @@
   <a href="https://medium.com/@kushwahasaurabh219" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
   </a>
-</p>
+</div>
 
 <div align="center">
 
