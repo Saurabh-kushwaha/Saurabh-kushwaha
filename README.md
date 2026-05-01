@@ -10,8 +10,6 @@
 - 👨‍💻 All of my projects are available at  
   https://saurabh-kushwaha.github.io/portfolio/
 - 📫 Reach me at **kushwahasaurabh219@gmail.com**
-- 📄 Learn more about my experience:  
- https://drive.google.com/file/d/18edPqQkJf7ew7NykN-RRbluiIzKqpvfX/view?usp=sharing
 - ⚡ Fun fact: I enjoy **badminton and reading Book**
 
 ---
