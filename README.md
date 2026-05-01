@@ -5,11 +5,11 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently working at **Nvest Solution**
-- 👯 Open to collaborating on **Web Development projects**
-- 👨‍💻 All of my projects are available at https://saurabh-kushwaha.github.io/portfolio/
-- 📫 Reach me at **kushwahasaurabh219@gmail.com**
-- ⚡ Fun fact: I enjoy **badminton and reading Book**
+🌱 Currently working at **Nvest Solution**
+👯 Open to collaborating on **Web Development projects**
+👨‍💻 All of my projects are available at https://saurabh-kushwaha.github.io/portfolio/
+📫 Reach me at **kushwahasaurabh219@gmail.com**
+⚡ Fun fact: I enjoy **badminton and reading Book**
 
 ---
 
