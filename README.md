@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saurabh Kushwaha 👋</h1>
 <h3 align="center">Frontend Engineer | 4+ Years | React, Next.js, MERN   
 Building scalable apps & exploring AI-powered systems</h3>
-
+<p>“Previously worked on enterprise fintech apps and data platforms (Nvest, Trueloader)”</p>
 ---
 
 ### 🚀 About Me
