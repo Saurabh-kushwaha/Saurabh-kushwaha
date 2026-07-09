@@ -25,7 +25,7 @@
 
 ### 🎯 Currently
 
-- 🔭 Open to **full-time Full Stack / Frontend roles** — remote or hybrid
+- 🔭 Open to **full-time Full Stack / Frontend roles** — remote or hybrid or onsite
 - 🌱 Deepening backend and system design skills, exploring LLM-integrated product architecture
 - 👯 Open to collaborating on web dev or AI-integration side projects
 - 📫 Reach me: **kushwahasaurabh219@gmail.com**
