@@ -1,34 +1,69 @@
 <h1 align="center">Hi, I'm Saurabh Kushwaha 👋</h1>
-<h3 align="center">Frontend Engineer | 4+ Years | React, Next.js, MERN <br/>  
-Building scalable apps & exploring AI-powered systems</h3>
-<p align="center">“Previously worked on enterprise fintech apps and data platforms (Nvest, Trueloader)”</p>
-
-### 🚀 About Me
-
-- 🌱 Currently working at **Nvest Solution**
-- 👯 Open to collaborating on **Web Development projects**
-- 👨‍💻 All of my projects are available at https://saurabh-kushwaha.github.io/portfolio/
-- 📫 Reach me at **kushwahasaurabh219@gmail.com**
-- ⚡ Fun fact: I enjoy **badminton and reading Book**
-
-<h3 align="center">🤝 Connect with me</h3>
+<h3 align="center">Full Stack Engineer | 4+ Years | React, Next.js, Node.js, TypeScript</h3>
+<h4 align="center">Shipped enterprise fintech platforms (SBI, PNB) — now building an AI-powered SaaS product solo</h4>
 
 <p align="center">
-  <a href="https://twitter.com/saurabh16454018">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/saurbhkushwaha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@kushwahasaurabh219">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
+  <a href="https://saurabh-kushwaha.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-1F3A5F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saurbhkushwaha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kushwahasaurabh219@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@kushwahasaurabh219"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
-<div align="center">
+---
 
-### 🛠️ Languages & Tools
+### 🚀 What I'm building right now
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,bootstrap,mui,nodejs" />
+**[ReviewQR AI](https://saurabh-kushwaha.github.io/portfolio/)** — an AI-powered SaaS platform I designed and built end-to-end (frontend, backend, infra) that helps local businesses grow Google reviews through QR-based smart feedback flows, with Gemini-powered multilingual, sentiment-aware review generation.
+→ Solo-owned: architecture, auth, APIs, analytics dashboard, deployment — the whole stack.
 
-</div>
+### 💼 Background
+
+- 🏦 Led frontend on **enterprise banking platforms for SBI and PNB** at Nvest Solution — large-scale, high-compliance financial workflows
+- 🌍 Built and scaled a data integration/analytics platform frontend **remotely for a US-based team** (Trueloader)
+- 🛒 Shipped a full-stack MERN e-commerce platform (Applore Technologies)
+- 🎓 4+ years across fintech, SaaS, and e-commerce — from Figma to production, frontend to backend
+
+### 🎯 Currently
+
+- 🔭 Open to **full-time Full Stack / Frontend roles** — remote or hybrid
+- 🌱 Deepening backend and system design skills, exploring LLM-integrated product architecture
+- 👯 Open to collaborating on web dev or AI-integration side projects
+- 📫 Reach me: **kushwahasaurabh219@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,bootstrap,html,css" />
+
+**Backend & Database**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis" />
+
+**Cloud & Tools**
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,vercel,postman,figma" />
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[ReviewQR AI](https://saurabh-kushwaha.github.io/portfolio/)** | AI-powered review automation SaaS with multilingual, sentiment-aware generation | Next.js, TypeScript, Node.js, MongoDB, Gemini API |
+| **Choice Monk** | Full-stack e-commerce platform for healthy products | MERN Stack |
+| *(add your next 1-2 strongest repos here with live demo links)* | | |
+
+> 💡 Pin these same repos on your GitHub profile (top-right of your profile page → Customize pins) — pinned repos are the first thing recruiters click after this README.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-kushwaha&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-kushwaha&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center"><i>Building fast, breaking nothing. Let's connect if you're building something interesting.</i></p>
