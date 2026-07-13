@@ -13,7 +13,7 @@
 
 ### 🚀 What I'm building right now
 
-**[ReviewQR AI](https://saurabh-kushwaha.github.io/portfolio/)** — an AI-powered SaaS platform I designed and built end-to-end (frontend, backend, infra) that helps local businesses grow Google reviews through QR-based smart feedback flows, with Gemini-powered multilingual, sentiment-aware review generation.
+**[ReviewQR AI](https://github.com/Saurabh-kushwaha)** — an AI-powered SaaS platform I designed and built end-to-end (frontend, backend, infra) that helps local businesses grow Google reviews through QR-based smart feedback flows, with Gemini-powered multilingual, sentiment-aware review generation.
 → Solo-owned: architecture, auth, APIs, analytics dashboard, deployment — the whole stack.
 
 ### 💼 Background
