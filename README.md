@@ -49,7 +49,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[ReviewQR AI](https://saurabh-kushwaha.github.io/portfolio/)** | AI-powered review automation SaaS with multilingual, sentiment-aware generation | Next.js, TypeScript, Node.js, MongoDB, Gemini API |
+| **[ReviewQR AI](https://ai-powered-google-review.vercel.app/)** | AI-powered review automation SaaS with multilingual, sentiment-aware generation | Next.js, TypeScript, Node.js, MongoDB, Gemini API |
 | **Choice Monk** | Full-stack e-commerce platform for healthy products | MERN Stack |
 
 ---
