@@ -54,12 +54,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-kushwaha&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-</p>
-
----
-
 <p align="center"><i>Building fast, breaking nothing. Let's connect if you're building something interesting.</i></p>
